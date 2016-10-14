@@ -6,8 +6,8 @@
 
 int main()
 {
-	system("color 0b");
-	if (Account_Perst_CheckAccFile() == 1)
+	system("color 0b");               //…Ë÷√cmdœ‘ æ—’…´
+ 	if (Account_Perst_CheckAccFile() == 1)
 	{
 		SysLogin();
 	}
